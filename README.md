@@ -9,4 +9,4 @@
 ##### 👾💜 *.Modified by Jasmoon Chan.* 👾💜
 
 
-> ℹ Explanation has been included in the Dijkstra.ipynb. You could kindly view it via [Colab](https://research.google.com/colaboratory/)
+> ℹ Explanation has been included in the [Dijkstra.ipynb](https://github.com/Jasmoon99/dijkstra/blob/main/Dijkstra.ipynb). You could kindly view and run it via [Colab](https://research.google.com/colaboratory/)
